@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Http\Controllers\WU;
+namespace App\Http\Controllers\WM;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
-class wu0000Controller extends Controller
+class wm0000Controller extends Controller
 {
     public function index(Request $request){
     	
